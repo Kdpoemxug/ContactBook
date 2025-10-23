@@ -10,6 +10,7 @@ namespace ContactBook
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to ContactBook!");
         }
     }
 }
