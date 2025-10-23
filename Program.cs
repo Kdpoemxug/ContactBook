@@ -11,6 +11,8 @@ namespace ContactBook
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to ContactBook!");
+            Console.WriteLine("Email validation logic would be here.");
+
         }
     }
 }
